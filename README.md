@@ -1,4 +1,4 @@
-# Elotus Movies [[Link Demo]](https://elotus-movies.vercel.app/)
+# Elotus Movies [[Link Demo]](https://elotus-movie.vercel.app/)
 
 A web-based movie browsing application that allows users to explore and search for movies using **The Movie Database** (TMDB) API. Users can view movies in either grid or list layout, switch seamlessly between the two, and see detailed information for each movie including posters, release dates, ratings, genres, and overviews.
 
@@ -35,8 +35,8 @@ A web-based movie browsing application that allows users to explore and search f
 - Clone the repository:
 
 ```bash
-git clone https://github.com/tailh1998/elotus-movies.git
-cd elotus-movies
+git clone https://github.com/tailh1998/elotus-movie.git
+cd elotus-movie
 ```
 
 - Install dependencies:
