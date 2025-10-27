@@ -1,4 +1,4 @@
-# Elotus Movies [[Link Demo]](https://elotus-movie.vercel.app/)
+# Elotus Movies [[Link Demo]](https://elotus-movie-three.vercel.app/)
 
 A web-based movie browsing application that allows users to explore and search for movies using **The Movie Database** (TMDB) API. Users can view movies in either grid or list layout, switch seamlessly between the two, and see detailed information for each movie including posters, release dates, ratings, genres, and overviews.
 
