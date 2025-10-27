@@ -104,7 +104,7 @@ movies-app/
 │   ├── movie/                           # Movie detail pages
 │   │   ├── [id]/                        # Dynamic movie ID pages
 │   │   │   ├── not-found/               # Not Found page for missing movie
-│   │   │   ├── page.tsx                 # Movie detail page
+│   │   │   └── page.tsx                 # Movie detail page
 │   │   └── page.tsx                     # fallback detail page
 │   ├── api/                             # Backend API routes
 │   │   └── movies/
