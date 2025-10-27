@@ -85,6 +85,11 @@ docker-compose up
    - The button will toggle between `"Add to My List"` and `"✓ In My List"` depending on whether the movie is already saved.
    - Movies added to your list are stored in **localStorage**, so you can access them later even after refreshing the page.
 
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+![Elotus Movies Walkthrough](/public/images/walkthrough.gif)
+
 ## Project Structure
 
 ```.
